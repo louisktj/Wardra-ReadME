@@ -7,7 +7,7 @@ You take photos of your clothes and of yourself, and the app uses AI (Gemini 3) 
 ---
 
 ## What You Can Do with Wardra
-<img width="300" height="500" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-24 at 12 21 16" src="https://github.com/user-attachments/assets/ad685512-e984-48c2-81a3-0c8b06a8e6ab" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-11-24 at 12 21 16" src="https://github.com/user-attachments/assets/ad685512-e984-48c2-81a3-0c8b06a8e6ab" />
 
 ### 1. Guided Onboarding
 - Simple step-by-step onboarding to start quickly  
